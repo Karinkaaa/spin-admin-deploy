@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/spin-admin-deploy/static/css/main.0cea375d.chunk.css",
+    "main.js": "/spin-admin-deploy/static/js/main.84beb698.chunk.js",
+    "main.js.map": "/spin-admin-deploy/static/js/main.84beb698.chunk.js.map",
+    "runtime-main.js": "/spin-admin-deploy/static/js/runtime-main.322e15e5.js",
+    "runtime-main.js.map": "/spin-admin-deploy/static/js/runtime-main.322e15e5.js.map",
+    "static/js/2.6b9e3604.chunk.js": "/spin-admin-deploy/static/js/2.6b9e3604.chunk.js",
+    "static/js/2.6b9e3604.chunk.js.map": "/spin-admin-deploy/static/js/2.6b9e3604.chunk.js.map",
+    "index.html": "/spin-admin-deploy/index.html",
+    "static/css/main.0cea375d.chunk.css.map": "/spin-admin-deploy/static/css/main.0cea375d.chunk.css.map",
+    "static/js/2.6b9e3604.chunk.js.LICENSE.txt": "/spin-admin-deploy/static/js/2.6b9e3604.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.322e15e5.js",
+    "static/js/2.6b9e3604.chunk.js",
+    "static/css/main.0cea375d.chunk.css",
+    "static/js/main.84beb698.chunk.js"
+  ]
+}
